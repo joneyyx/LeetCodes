@@ -50,22 +50,22 @@ class Solution:
 
 
 
-        if n%2 == 1:
-            state = isBadVersion((n+1)/2)
-            # state is False(不是错误的版本)=》往右边找
-            if not state:
-
-        elif:
-            state = isBadVersion(n/2)
-
-        # odd
-        # (n+1)/2
-        if n%2 == 1:
-            return 1
-
-
-s = Solution()
-s.firstBadVersion(5)
-
-
-        # even
+#         if n%2 == 1:
+#             state = isBadVersion((n+1)/2)
+#             # state is False(不是错误的版本)=》往右边找
+#             if not state:
+#
+#         elif:
+#             state = isBadVersion(n/2)
+#
+#         # odd
+#         # (n+1)/2
+#         if n%2 == 1:
+#             return 1
+#
+#
+# s = Solution()
+# s.firstBadVersion(5)
+#
+#
+#         # even
