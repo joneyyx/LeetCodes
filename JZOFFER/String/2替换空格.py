@@ -5,6 +5,7 @@ class Solution:
     # s 源字符串
     def replaceSpace(self, s):
         # write code here
+        print("zhq")
         return  s.replace(" ", "%20")
 
 s = Solution()

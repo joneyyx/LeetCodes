@@ -32,4 +32,4 @@ class Solution:
 
 s = "0P"
 S= Solution()
-print(S.isPalindrome(str))
+print(S.isPalindrome(s))

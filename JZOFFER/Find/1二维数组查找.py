@@ -15,13 +15,13 @@ class Solution:
 
         # 左下角的横坐标，纵坐标
         r, c = row-1, 0
-        while r >=0 and c <=column-1:
+        while r >= 0 and c <= column-1:
             if target == array[r][c]:
                 return True
             elif target < array[r][c]:
                 r = r-1
             else:
-                c = c +1
+                c = c + 1
         return False
 
 
