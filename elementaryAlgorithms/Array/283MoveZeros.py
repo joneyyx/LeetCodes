@@ -1,4 +1,5 @@
-# Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+# Given an array nums, write a function to move all 0's to the end of it while
+# maintaining the relative order of the non-zero elements.
 #
 # Example:
 #
@@ -24,6 +25,31 @@ class Solution:
                 i += 1
             j += 1
         print(nums)
+
+
+
+
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        # 前面1个0，就会后面的数字往前移动一位。 2个0，后面所有的数字往前移动2位
+#         count用来存储一共有多少个0
+        count = 0
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                count += 1
+            else:
+                nums[i-count] = nums[i]
+        for j in range(len(nums)-count, len(nums)):
+            nums[j] = 0
+        return nums
+
+#         从第num-count开始补0， 一共补count个
+
+
+
 
 
 

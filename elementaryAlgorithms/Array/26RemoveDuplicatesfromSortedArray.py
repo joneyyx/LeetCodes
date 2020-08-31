@@ -66,9 +66,9 @@ class Solution:
         if len(nums) <= 1:
             return len(nums)
         for pin in range(1, len(nums)):
-            if nums[loc] == nums[pin]:
-                pin = pin + 1
-            elif nums[loc] != nums[pin]:
+            # if nums[loc] == nums[pin]:
+            #     pin = pin + 1
+            if nums[loc] != nums[pin]:
                 loc += 1
                 nums[loc] = nums[pin]
         return loc+1

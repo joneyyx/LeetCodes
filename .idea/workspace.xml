@@ -19,16 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Others/17LetterCombinationsOfPhoneNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCodes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="20200825 commit">
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/11ContainerWithMostWater.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZOFFER/Find/1二维数组查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/JZOFFER/Find/1二维数组查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZOFFER/LinkedList/3打乱链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/JZOFFER/LinkedList/3打乱链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZOFFER/String/2替换空格.py" beforeDir="false" afterPath="$PROJECT_DIR$/JZOFFER/String/2替换空格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/String/125ValidPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/String/125ValidPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/Array/26RemoveDuplicatesfromSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/26RemoveDuplicatesfromSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/Array/283MoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/283MoveZeros.py" afterDir="false" />
     </list>
+    <list id="ce6ea7e6-b3d1-48a2-adee-82e09f720e9e" name="202008125 commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/JZOFFER/Find/1二维数组查找.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -216,6 +213,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="" />
+      <changelist id="ce6ea7e6-b3d1-48a2-adee-82e09f720e9e" name="202008125 commit" comment="" />
       <created>1584971950780</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -304,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597673864442</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="202008125 commit">
+      <created>1598457401185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598457401185</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20200825 commit">
+      <created>1598457486022</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598457486022</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +340,9 @@
     <MESSAGE value="20200705 commit" />
     <MESSAGE value="20200721 commit" />
     <MESSAGE value="20200817 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200817 commit" />
+    <MESSAGE value="202008125 commit" />
+    <MESSAGE value="20200825 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200825 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="617" y="215" key="#Inspections" timestamp="1596026460965">
@@ -399,39 +413,45 @@
     </state>
     <state width="1493" height="275" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596379354576" />
     <state width="2005" height="340" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1596126712397" />
-    <state x="347" y="23" width="1496" height="1001" key="SettingsEditor" timestamp="1598451948186">
+    <state x="347" y="23" width="1496" height="1001" key="SettingsEditor" timestamp="1598885658026">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="116" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1598367223291" />
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591755885152" />
-    <state x="347" y="23" width="1496" height="1001" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1598451948186" />
+    <state x="347" y="23" width="1496" height="1001" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1598885658026" />
     <state x="231" y="23" width="997" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1598369628297" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1598368505686">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1280.721@0.23.1280.721" timestamp="1598368505686" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1597673874177">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="811" y="460" key="VCS.ChangelistChooser" timestamp="1598457458519">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="811" y="460" key="VCS.ChangelistChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1598457458519" />
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2" timestamp="1598457502392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598457502392" />
     <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1597673874177" />
     <state x="591" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1598273895882">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="444" y="282" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598190011394" />
     <state x="591" y="375" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1598273895882" />
-    <state x="834" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593960158373">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="782" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598457830642">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="782" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598457830642" />
     <state x="834" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1593960158373" />
     <state x="0" y="23" width="762" height="721" key="find.popup" timestamp="1598368491705">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="0" y="23" width="762" height="721" key="find.popup/0.23.1280.721@0.23.1280.721" timestamp="1598368491705" />
-    <state x="513" y="183" width="897" height="696" key="recent.locations.popup" timestamp="1598457038625">
+    <state x="513" y="183" width="897" height="696" key="recent.locations.popup" timestamp="1598880075645">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1596439907007" />
-    <state x="513" y="183" width="897" height="696" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598457038625" />
+    <state x="513" y="183" width="897" height="696" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598880075645" />
     <state x="342" y="145" width="598" height="464" key="recent.locations.popup/0.23.1280.721@0.23.1280.721" timestamp="1598367784151" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1597672200573">
       <screen x="0" y="0" width="2048" height="1112" />
