@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="20200825 commit">
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/11ContainerWithMostWater.py" afterDir="false" />
+    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="20200831 commit">
+      <change afterPath="$PROJECT_DIR$/JZOFFER/Others/20表示数值的字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Tree/144BinaryTreePreorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Tree/589N-arrayTreePreOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Tree/94BinaryTreeInorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Tree/InitialATree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/Array/26RemoveDuplicatesfromSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/26RemoveDuplicatesfromSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/Array/283MoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/283MoveZeros.py" afterDir="false" />
     </list>
     <list id="ce6ea7e6-b3d1-48a2-adee-82e09f720e9e" name="202008125 commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -316,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598457486022</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20200831 commit">
+      <created>1598890339976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598890339976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +351,8 @@
     <MESSAGE value="20200817 commit" />
     <MESSAGE value="202008125 commit" />
     <MESSAGE value="20200825 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200825 commit" />
+    <MESSAGE value="20200831 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200831 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="617" y="215" key="#Inspections" timestamp="1596026460965">
@@ -363,6 +373,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1595469506873" />
+    <state x="628" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1598976431754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="628" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598976431754" />
     <state x="649" y="151" key="CommitChangelistDialog2" timestamp="1597673863545">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -428,10 +442,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="811" y="460" key="VCS.ChangelistChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1598457458519" />
-    <state x="578" y="282" key="Vcs.Push.Dialog.v2" timestamp="1598457502392">
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2" timestamp="1598890349997">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="578" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598457502392" />
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598890349997" />
     <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1597673874177" />
     <state x="591" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1598273895882">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -447,11 +461,11 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="0" y="23" width="762" height="721" key="find.popup/0.23.1280.721@0.23.1280.721" timestamp="1598368491705" />
-    <state x="513" y="183" width="897" height="696" key="recent.locations.popup" timestamp="1598880075645">
+    <state x="513" y="183" width="897" height="696" key="recent.locations.popup" timestamp="1598967293313">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1596439907007" />
-    <state x="513" y="183" width="897" height="696" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598880075645" />
+    <state x="513" y="183" width="897" height="696" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598967293313" />
     <state x="342" y="145" width="598" height="464" key="recent.locations.popup/0.23.1280.721@0.23.1280.721" timestamp="1598367784151" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1597672200573">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -465,6 +479,11 @@
           <url>file://$PROJECT_DIR$/elementaryAlgorithms/LinkedList/CreateALinkedList.py</url>
           <line>90</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/elementaryAlgorithms/Tree/InitialATree.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
