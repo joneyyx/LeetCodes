@@ -46,14 +46,16 @@ class Solution:
                 return  True
         return False
 
-    class Solution:
-        def hasCycle(self, head: ListNode) -> bool:
-            dic = {}
-            node = head
-            while (node):
-                if (dic.get(node, 0) != 0):
-                    return True
-                else:
-                    dic[node] = 1
-                node = node.next
-            return False
+
+###########################
+class Solution:
+    def hasCycle(self, head: ListNode) -> bool:
+        dic = {}
+        node = head
+        while (node):
+            if (dic.get(node, 0) != 0):
+                return True
+            else:
+                dic[node] = 1
+            node = node.next
+        return False
