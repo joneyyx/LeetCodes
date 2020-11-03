@@ -4,6 +4,8 @@
 #     print(int(a[0]) + int(a[1]))
 #
 import sys
+from typing import List
+
 if __name__ == "__main__":
     # 读取第一行的n
     n = int(sys.stdin.readline().strip())
@@ -63,3 +65,19 @@ if __name__ == "__main__":
 #         break
 # mxt[0][0]=1
 # mxt
+
+
+
+for i in range(1, n+1):
+    print("^"*i)
+
+array: List[int] = [4,3,8,10,4,8,1]
+def findDuplicate(nums:list) -> object:
+    dict ={}
+    res = []
+    for c in nums:
+        dict[c]  = dict.get(c,0) +1
+    # for wd in dict:
+    #     if dict[wd] > 1:
+    #         res.append(wd)
+    return dict

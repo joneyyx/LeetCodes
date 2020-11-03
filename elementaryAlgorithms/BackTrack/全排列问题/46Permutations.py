@@ -14,7 +14,7 @@
 # ]
 from typing import List
 
-
+#给定的数字没有重复
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         if not nums:

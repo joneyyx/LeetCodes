@@ -19,16 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="20201025 commit">
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Dynamic Programming/64MiniPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Dynamic Programming/JZ42连续子数组最大和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/LinkedList/LinkedListInSelectSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/LinkedList/链表交叉点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Sort&amp;Search/BinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Sort/select_sort.py" afterDir="false" />
+    <list default="true" id="dbe3118e-7a4f-4417-9141-22787942be9a" name="Default Changelist" comment="20201028 commit">
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Array/JZ29打印矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/BackTrack/全排列问题/47Permutations2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/BackTrack/全排列问题/JZ38字符串排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Dynamic Programming/JZ46把数字翻译成字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementaryAlgorithms/Tree/129SumRootToLeafNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/LinkedList/141LinkedListCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/LinkedList/141LinkedListCycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/Sort/LCP19秋叶收藏.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/Dynamic Programming/LCP19秋叶收藏.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementaryAlgorithms/BackTrack/46Permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/elementaryAlgorithms/BackTrack/全排列问题/46Permutations.py" afterDir="false" />
     </list>
     <list id="ce6ea7e6-b3d1-48a2-adee-82e09f720e9e" name="202008125 commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,11 +84,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/elementaryAlgorithms/BackTrack/全排列问题" />
       <recent name="$PROJECT_DIR$/elementaryAlgorithms/Dynamic Programming" />
       <recent name="$PROJECT_DIR$/elementaryAlgorithms/Tree/InOrder" />
       <recent name="$PROJECT_DIR$/elementaryAlgorithms/String/SlidingWindow" />
       <recent name="$PROJECT_DIR$/elementaryAlgorithms/Tree" />
-      <recent name="$PROJECT_DIR$/elementaryAlgorithms/Array" />
     </key>
   </component>
   <component name="RunManager" selected="Python.buildling">
@@ -419,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603732542525</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20201028 commit">
+      <created>1603819123972</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603819123973</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +460,8 @@
     <MESSAGE value="20200929 commit" />
     <MESSAGE value="20201013_1 commit" />
     <MESSAGE value="20201025 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="20201025 commit" />
+    <MESSAGE value="20201028 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201028 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="617" y="215" key="#Inspections" timestamp="1596026460965">
@@ -569,11 +576,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="811" y="460" key="VCS.ChangelistChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1598457458519" />
-    <state x="385" y="208" key="Vcs.Push.Dialog.v2" timestamp="1603732838392">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2" timestamp="1603819129657">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="385" y="208" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603732838392" />
-    <state x="578" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599586429429" />
+    <state x="578" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603819129657" />
     <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1597673874177" />
     <state x="578" y="284" key="Vcs.Push.Dialog.v2/0.23.1920.1001@0.23.1920.1001" timestamp="1600272980850" />
     <state x="578" y="283" key="Vcs.Push.Dialog.v2/0.23.1920.999@0.23.1920.999" timestamp="1601389968762" />
@@ -613,11 +620,6 @@
           <url>file://$PROJECT_DIR$/elementaryAlgorithms/Tree/InitialATree.py</url>
           <line>136</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/elementaryAlgorithms/BackTrack/46Permutations.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
